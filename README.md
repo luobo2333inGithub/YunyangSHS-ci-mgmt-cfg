@@ -1,2 +1,2 @@
-# YunyangSeniorHS-ci-mgmt-cfg
+# YunyangSeniorHighSchool-ci-mgmt-cfg
 Welcome to Chongqing Yunyang Senior High School!
