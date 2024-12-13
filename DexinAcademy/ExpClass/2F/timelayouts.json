@@ -1,0 +1,3246 @@
+{
+    "Name": "",
+    "TimeLayouts": {  "5de96cb4-5b4c-4c21-9bf9-22a87f22948f": {
+        "Name": "\u5468\u4E00~\u5468\u4E94",
+        "Layouts": [
+            {
+                "StartSecond": "2024-09-29T06:58:00+08:00",
+                "EndSecond": "2024-09-29T07:30:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:30:00+08:00",
+                "EndSecond": "2024-09-29T07:30:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:30:00+08:00",
+                "EndSecond": "2024-09-29T07:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:38:00+08:00",
+                "EndSecond": "2024-09-29T08:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:20:00+08:00",
+                "EndSecond": "2024-09-29T08:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:28:00+08:00",
+                "EndSecond": "2024-09-29T09:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:10:00+08:00",
+                "EndSecond": "2024-09-29T09:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:38:00+08:00",
+                "EndSecond": "2024-09-29T10:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:20:00+08:00",
+                "EndSecond": "2024-09-29T10:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:28:00+08:00",
+                "EndSecond": "2024-09-29T11:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:10:00+08:00",
+                "EndSecond": "2024-09-29T11:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:18:00+08:00",
+                "EndSecond": "2024-09-29T11:58:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:57:00+08:00",
+                "EndSecond": "2024-09-29T14:28:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:58:00+08:00",
+                "EndSecond": "2024-09-29T14:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T14:28:00+08:00",
+                "EndSecond": "2024-09-29T15:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:10:00+08:00",
+                "EndSecond": "2024-09-29T15:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:18:00+08:00",
+                "EndSecond": "2024-09-29T16:00:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:00:00+08:00",
+                "EndSecond": "2024-09-29T16:08:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:08:00+08:00",
+                "EndSecond": "2024-09-29T16:50:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:50:00+08:00",
+                "EndSecond": "2024-09-29T16:58:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:58:00+08:00",
+                "EndSecond": "2024-09-29T17:58:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T17:58:00",
+                "EndSecond": "2024-09-29T18:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T18:00:00+08:00",
+                "EndSecond": "2024-09-29T18:28:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T18:38:00+08:00",
+                "EndSecond": "2024-09-29T19:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T19:20:00+08:00",
+                "EndSecond": "2024-09-29T19:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T19:28:00+08:00",
+                "EndSecond": "2024-09-29T20:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T20:10:00+08:00",
+                "EndSecond": "2024-09-29T20:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T20:18:00+08:00",
+                "EndSecond": "2024-09-29T21:00:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    },
+                    "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                        "IsEnabled": true,
+                        "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            }
+        ],
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
+                "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                "ClassOnMaskText": "\u4E0A\u8BFE",
+                "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 300,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                "AlertShowMode": 2,
+                "ForecastShowMode": 2,
+                "IsAttachSettingsEnabled": true,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "3981ed43-a7c5-41d8-b3a7-f16208d3d7c2": {
+        "Name": "\u5468\u516D",
+        "Layouts": [
+            {
+                "StartSecond": "2024-09-29T06:58:00+08:00",
+                "EndSecond": "2024-09-29T07:30:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:30:00+08:00",
+                "EndSecond": "2024-09-29T07:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:38:00+08:00",
+                "EndSecond": "2024-09-29T08:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:20:00+08:00",
+                "EndSecond": "2024-09-29T08:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:28:00+08:00",
+                "EndSecond": "2024-09-29T09:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:10:00+08:00",
+                "EndSecond": "2024-09-29T09:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:38:00+08:00",
+                "EndSecond": "2024-09-29T10:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:20:00+08:00",
+                "EndSecond": "2024-09-29T10:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:28:00+08:00",
+                "EndSecond": "2024-09-29T11:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:10:00+08:00",
+                "EndSecond": "2024-09-29T11:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:18:00+08:00",
+                "EndSecond": "2024-09-29T11:58:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:57:00+08:00",
+                "EndSecond": "2024-09-29T11:57:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:58:00+08:00",
+                "EndSecond": "2024-09-29T14:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T14:28:00+08:00",
+                "EndSecond": "2024-09-29T15:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:10:00+08:00",
+                "EndSecond": "2024-09-29T15:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:18:00+08:00",
+                "EndSecond": "2024-09-29T16:00:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:00:00+08:00",
+                "EndSecond": "2024-09-29T16:08:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:08:00+08:00",
+                "EndSecond": "2024-09-29T16:50:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:50:00+08:00",
+                "EndSecond": "2024-09-29T16:58:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:58:00+08:00",
+                "EndSecond": "2024-09-29T17:38:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            }
+        ],
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
+                "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                "ClassOnMaskText": "\u4E0A\u8BFE",
+                "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 300,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "0b4195a9-b68f-4d60-af33-4353a0a9325c": {
+        "Name": "\u65E0\u665A\u81EA\u4E60",
+        "Layouts": [
+            {
+                "StartSecond": "2024-09-29T06:58:00+08:00",
+                "EndSecond": "2024-09-29T07:30:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": true,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:30:00+08:00",
+                "EndSecond": "2024-09-29T07:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:30:00+08:00",
+                "EndSecond": "2024-09-29T07:38:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T07:38:00+08:00",
+                "EndSecond": "2024-09-29T08:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:20:00+08:00",
+                "EndSecond": "2024-09-29T08:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T08:28:00+08:00",
+                "EndSecond": "2024-09-29T09:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:10:00+08:00",
+                "EndSecond": "2024-09-29T09:38:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T09:38:00+08:00",
+                "EndSecond": "2024-09-29T10:20:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:20:00+08:00",
+                "EndSecond": "2024-09-29T10:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T10:28:00+08:00",
+                "EndSecond": "2024-09-29T11:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": true,
+                "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:10:00+08:00",
+                "EndSecond": "2024-09-29T11:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:18:00+08:00",
+                "EndSecond": "2024-09-29T11:58:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:58:00+08:00",
+                "EndSecond": "2024-09-29T14:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T11:57:00+08:00",
+                "EndSecond": "2024-09-29T11:57:00+08:00",
+                "TimeType": 2,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T14:28:00+08:00",
+                "EndSecond": "2024-09-29T15:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:10:00+08:00",
+                "EndSecond": "2024-09-29T15:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T15:18:00+08:00",
+                "EndSecond": "2024-09-29T16:00:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:00:00+08:00",
+                "EndSecond": "2024-09-29T16:08:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-09-29T16:08:00+08:00",
+                "EndSecond": "2024-09-29T16:50:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 300,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            }
+        ],
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
+                "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                "ClassOnMaskText": "\u4E0A\u8BFE",
+                "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 300,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "20d6a3f2-5b9b-4424-8c48-346d32e060b4": {
+        "Name": "\u5468\u8003\uFF082h\uFF09",
+        "Layouts": [
+            {
+                "StartSecond": "2024-10-20T18:10:00",
+                "EndSecond": "2024-10-20T18:28:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "\u66F4\u6362\u5EA7\u4F4D",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-20T19:00:00",
+                "EndSecond": "2024-10-20T21:00:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "95dd61cd-5d2e-4f23-80e8-99be8aa97028",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": false,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            }
+        ],
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
+                "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                "ClassOnMaskText": "\u4E0A\u8BFE",
+                "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    },
+    "eff81433-6410-4530-be46-02f26b3eb44c": {
+        "Name": "\u4EC5\u665A\u81EA\u4E60",
+        "Layouts": [
+            {
+                "StartSecond": "2024-10-26T18:10:00",
+                "EndSecond": "2024-10-26T18:28:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "\u66F4\u6362\u5EA7\u4F4D",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T18:28:00+08:00",
+                "EndSecond": "2024-10-26T18:50:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": true,
+                "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T18:50:00+08:00",
+                "EndSecond": "2024-10-26T18:58:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T18:58:00+08:00",
+                "EndSecond": "2024-10-26T19:28:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": true,
+                "DefaultClassId": "7359f74a-058f-4b32-9229-a7e6336ecc60",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T19:28:00+08:00",
+                "EndSecond": "2024-10-26T20:10:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T20:10:00+08:00",
+                "EndSecond": "2024-10-26T20:18:00+08:00",
+                "TimeType": 1,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            },
+            {
+                "StartSecond": "2024-10-26T20:18:00+08:00",
+                "EndSecond": "2024-10-26T21:00:00+08:00",
+                "TimeType": 0,
+                "IsHideDefault": false,
+                "DefaultClassId": "",
+                "BreakName": "",
+                "AttachedObjects": {
+                    "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                        "IsClassOnNotificationEnabled": true,
+                        "IsClassOnPreparingNotificationEnabled": true,
+                        "IsClassOffNotificationEnabled": true,
+                        "ClassPreparingDeltaTime": 60,
+                        "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                        "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                        "ClassOnMaskText": "\u4E0A\u8BFE",
+                        "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                        "IsAttachSettingsEnabled": false,
+                        "IsActive": false
+                    },
+                    "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                        "IsAttachSettingsEnabled": false,
+                        "ShowExtraInfoOnTimePoint": true,
+                        "ExtraInfoType": 0,
+                        "IsCountdownEnabled": true,
+                        "CountdownSeconds": 60,
+                        "ExtraInfo4ShowSecondsSeconds": 0,
+                        "ScheduleSpacing": 1,
+                        "ShowCurrentLessonOnlyOnClass": false,
+                        "IsActive": false
+                    },
+                    "7625de96-38aa-4b71-b478-3f156dd9458d": {
+                        "AlertShowMode": 2,
+                        "ForecastShowMode": 2,
+                        "IsAttachSettingsEnabled": true,
+                        "IsActive": false
+                    }
+                },
+                "IsActive": false
+            }
+        ],
+        "AttachedObjects": {
+            "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                "IsEnabled": true,
+                "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                "IsClassOnNotificationEnabled": true,
+                "IsClassOnPreparingNotificationEnabled": true,
+                "IsClassOffNotificationEnabled": true,
+                "ClassPreparingDeltaTime": 60,
+                "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                "ClassOnPreparingMaskText": "\u5373\u5C06\u4E0A\u8BFE",
+                "ClassOnMaskText": "\u4E0A\u8BFE",
+                "ClassOffMaskText": "\u8BFE\u95F4\u4F11\u606F",
+                "IsAttachSettingsEnabled": false,
+                "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                "IsAttachSettingsEnabled": false,
+                "ShowExtraInfoOnTimePoint": true,
+                "ExtraInfoType": 0,
+                "IsCountdownEnabled": true,
+                "CountdownSeconds": 60,
+                "ExtraInfo4ShowSecondsSeconds": 0,
+                "ScheduleSpacing": 1,
+                "ShowCurrentLessonOnlyOnClass": false,
+                "IsActive": false
+            }
+        },
+        "IsActive": false
+    }},
+    "ClassPlans": {},
+    "Subjects": {},
+    "OverlayClassPlanId": null,
+    "TempClassPlanId": null,
+    "TempClassPlanSetupTime": "2024-09-29T22:11:28.0218269+08:00",
+    "IsActive": false
+}
