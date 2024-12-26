@@ -87,7 +87,7 @@
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
                     "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": true,
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -201,7 +201,7 @@
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
                     "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": true,
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -315,7 +315,7 @@
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
                     "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": true,
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -429,7 +429,7 @@
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
                     "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": true,
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -543,7 +543,7 @@
                 "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
                     "IsEnabled": true,
                     "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": true,
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
                 "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
@@ -719,7 +719,8 @@
                 }
             },
             "IsActive": false
-        }},
+        }
+    },
     "Subjects": {},
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,

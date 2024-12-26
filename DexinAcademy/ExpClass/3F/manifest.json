@@ -3,7 +3,7 @@
     "OrganizationName": "YunyangSeniorHighSchool",
     "ClassPlanSource": {
         "Value": "https://ghp.ci/https://raw.githubusercontent.com/luobo2333inGitHub/classisland-mgmt-cfg/master/DexinAcademy/ExpClass/3F/{id}/classplans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://ghp.ci/https://raw.githubusercontent.com/luobo2333inGitHub/classisland-mgmt-cfg/master/DexinAcademy/ExpClass/3F/timelayouts.json",
